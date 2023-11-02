@@ -17,6 +17,41 @@
 //       setGreen, getGreen, setBlue, getBlue, read, write.
 
 
+Color::Color() {
+
+}
+
+void Color::setRed(int redVal) {
+    
+}
+
+int Color::getRed(){
+    return 1;
+}
+
+void Color::setGreen(<#int greenVal#>) {
+    
+}
+
+int Color::getGreen() {
+    return 1;
+}
+
+void Color::setBlue(<#int blueVal#>) {
+    
+}
+
+int Color::getBlue() {
+    return 1;
+}
+
+void Color::read(<#istream &ins#>) {
+    
+}
+
+void Color::write(<#ostream &outs#>) {
+    
+}
 
 
 

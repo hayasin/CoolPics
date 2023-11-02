@@ -24,6 +24,22 @@ using namespace std;
 
 // TODO: implement constructor, clear, setPixel, initArray.
 
+Graphics::Graphics() {
+    
+}
+
+void Graphics::clear() {
+    
+}
+
+void Graphics::writeFile(<#string fileName#>) {
+    
+}
+
+void Graphics::setPixel(<#int x#>, <#int y#>, <#Color color#>) {
+    
+}
+
 
 
 // Your code goes above this line.
