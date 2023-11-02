@@ -1,0 +1,56 @@
+{
+  "buildCommand" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildAndRun"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "5c08c83aa4507dc027d5a307792d95cdc2ce01cb85ff0ff48ded41da9b33999b"
+    }
+  ],
+  "containerPath" : "/Users/michaeldancea/Documents/GitHub/CoolPics/project4.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx14.0",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "arm64e",
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/michaeldancea/Documents/GitHub/CoolPics/DerivedData/project4/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/michaeldancea/Documents/GitHub/CoolPics/DerivedData/project4/Build/Products",
+      "derivedDataPath" : "/Users/michaeldancea/Documents/GitHub/CoolPics/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/michaeldancea/Documents/GitHub/CoolPics/DerivedData/project4/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/michaeldancea/Documents/GitHub/CoolPics/DerivedData/project4/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/michaeldancea/Documents/GitHub/CoolPics/DerivedData/project4/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
