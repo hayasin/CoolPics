@@ -5,10 +5,10 @@
  * Lab 7
  * Taken from Project 4: CoolPics
  *
- * <#Name#> Hasan, Michael
- * <#uniqname#>hayasin, madancea
+ * Hasan, Michael
+ * hayasin, madancea
  *
- * <#Description#> Finds coordinate for different points, determines if range is papropriate
+ * Finds coordinate for different points, determines if range is papropriate
  */
 
 #include "Point.h"
